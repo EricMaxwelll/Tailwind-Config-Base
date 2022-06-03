@@ -5,7 +5,6 @@ Este repositorio contiene la configuración base de un proyecto TailwindCSS3 :
 - Scripts Package.json - OK
 - Application.tailwind.css - OK
 
----
 
 ## Tailwind.config.js 
 
